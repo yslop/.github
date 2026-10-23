@@ -1,4 +1,4 @@
-# ylsop · why slop?
+# yslop · why slop?
 
 Viel ist leicht. Gut ist selten. **ylsop** baut offene Werkzeuge für Menschen, die lieber gründlich als viel machen:
 weniger, dafür bessere Bewerbungen; Wissen, das bleibt, statt abgehakter Kapitel. Lokal, mit deiner eigenen KI oder
