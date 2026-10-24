@@ -10,7 +10,7 @@ never leaves your computer.*
 
 | Projekt | Wofür |
 |---|---|
-| [**STAR**](https://github.com/yslop/xlrte-star) | Jobsuche mit Fokus: Pipeline, Recherche mit Quellen, Gesprächs-Cockpit · *focused job search* |
+| [**Pitwall**](https://github.com/yslop/pitwall) | Jobsuche mit Fokus: Pipeline, Recherche mit Quellen, Gesprächs-Cockpit · *focused job search* |
 | [**XLRTE Mastery**](https://github.com/yslop/xlrte-mastery) | Lern-Cockpit für jede Prüfung: ehrliche Prognose, täglich neue Übungen · *learning cockpit for any exam* |
 
 Mitmachen: Issues mit `good first issue`, Ideen in den Discussions. Code MIT, Lerninhalte CC BY-SA 4.0.
